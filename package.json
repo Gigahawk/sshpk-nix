@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "sshpk": "1.18.0"
+    },
+    "name": "sshpk_pkg",
+    "version": "1.18.0",
+    "license": "MIT"
+}
